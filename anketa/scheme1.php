@@ -1,4 +1,4 @@
-form-button contact-form__bottom-button<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head><title></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
